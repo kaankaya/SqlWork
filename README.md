@@ -1,10 +1,23 @@
 SQL 101 - PATİKA + 
-film tablosunda bulunan title ve description sütunlarındaki verileri sıralayınız.
 
-film tablosunda bulunan tüm sütunlardaki verileri film uzunluğu (length) 60 dan büyük VE 75 ten küçük olma koşullarıyla sıralayınız.
+There are a Total of 4 Assignments in the whole Project.
 
-film tablosunda bulunan tüm sütunlardaki verileri rental_rate 0.99 VE replacement_cost 12.99 VEYA 28.99 olma koşullarıyla sıralayınız.
+Language Used: SQL
 
-customer tablosunda bulunan first_name sütunundaki değeri 'Mary' olan müşterinin last_name sütunundaki değeri nedir?
+What has been learned:
 
-film tablosundaki uzunluğu(length) 50 ten büyük OLMAYIP aynı zamanda rental_rate değeri 2.99 veya 4.99 OLMAYAN verileri sıralayınız.
+SELECT
+
+WHERE
+
+BETWEEN
+
+IN
+
+LIKE 
+
+ILIKE
+
+DISTINCT
+
+COUNT
