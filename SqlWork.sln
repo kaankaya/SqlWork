@@ -23,7 +23,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SqlWork9", "SqlWork9\SqlWor
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SqlWork10", "SqlWork10\SqlWork10.csproj", "{FFC35796-EEAD-4CB0-A607-E2A0AE1342A2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SqlWork11", "SqlWork11\SqlWork11.csproj", "{83A6DE52-90AF-4637-98CF-E5E4CBD5372E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SqlWork11", "SqlWork11\SqlWork11.csproj", "{83A6DE52-90AF-4637-98CF-E5E4CBD5372E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SqlWork12", "SqlWork12\SqlWork12.csproj", "{DCA1BA71-414E-43AC-81CA-712F7F3F5B75}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -75,6 +77,10 @@ Global
 		{83A6DE52-90AF-4637-98CF-E5E4CBD5372E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{83A6DE52-90AF-4637-98CF-E5E4CBD5372E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{83A6DE52-90AF-4637-98CF-E5E4CBD5372E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DCA1BA71-414E-43AC-81CA-712F7F3F5B75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCA1BA71-414E-43AC-81CA-712F7F3F5B75}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCA1BA71-414E-43AC-81CA-712F7F3F5B75}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCA1BA71-414E-43AC-81CA-712F7F3F5B75}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
